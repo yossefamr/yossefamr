@@ -1,29 +1,64 @@
-# Hi there, I'm Youssef Amr 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-### 🚀 About Me
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=false&vcenter=false&width=500&lines=Frontend+Developer+%E2%9A%A1%EF%B8%8F;Automation+%26+Workflow+Specialist+%F0%9F%A4%96;Crafting+Clean+Code+%26+Cool+UI+%F0%9F%8E%A8" alt="Typing SVG" />
-</p>
+# ⚡️ Youssef Amr (يوسف عمرو)
+### Frontend Developer & Workflow Automation Specialist
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 👨‍💻 نبذة عني | About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux_Mint-87C03E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+أهلاً بك! أنا **يوسف عمرو**، مبرمج ومطور واجهات (Frontend Developer) ومختص في أتمتة بيئات العمل (Workflow Automation). 
+
+أمتلك شغفاً كبيراً بتحويل الأفكار والعمليات اليدوية المعقدة إلى أنظمة ذكية وسريعة توفر الوقت والجهد، مع الاهتمام بتقديم تجربة مستخدم (UX) سلسة وممتازة.
+
+- 📍 **الإقامة:** القاهرة، مصر 🇪🇬
+- 🎓 **الصفة:** طالب ومطور شغوف بالتكنولوجيا والبرمجة 💻
+- 🥊 **الرياضة والاهتمامات:** أمارس رياضة الكونغ فو والساندا (Sanda) 🥋
+- ⚽️ **النادي المفضل:** مشجع لنادي الزمالك العريق 🏹
+- 🐧 **نظام التشغيل:** أعمل بشكل أساسي على **Linux Mint** 
 
 ---
 
-### ⚡ GitHub Stats & Streak
+## 🛠️ المهارات والتقنيات | Skills & Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossefamr&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yossefamr&theme=radial&hide_border=true" width="48%" />
-</p>
+### 💻 التطوير والواجهات (Frontend & Core)
+- **اللغات:** HTML5, CSS3, JavaScript (ES6+), Python, Node.js
+- **بناء الواجهات:** تصميم وتطوير واجهات تفاعلية ومستجيبة (Responsive Design)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=100&section=footer"/>
+### 🤖 الأتمتة والـ Backend (Automation & Scripting)
+- **بيئات الأتمتة:** Activepieces, Webhooks, Notion API Integrations
+- **البوتات والسكريبتات:** كتابة سكريبتات بلغة Python و Node.js لتسهيل وتحسين بيئات العمل
+- **الأنظمة برمجية:** التعامل مع REST APIs و OSINT Fundamentals
+
+### 🎬 أدوات أخرى (Tools & Media)
+- **إدارة الأكواد:** Git & GitHub
+- **المونتاج والتصميم:** CapCut, Filmora, InShot, UI/UX Design Concepts
+
+---
+
+## 🚀 أبرز المشاريع والإنجازات | Highlights & Projects
+
+1. **نظام أتمتة تتبع العملاء (Activepieces & Notion Workflow):**
+   - تصميم وتنفيذ فلو أتمتة كامل يربط بين الـ Webhooks وقواعد بيانات Notion لإدارة وتتبع العملاء تلقائياً مع نظام تنبيهات محدد.
+
+2. **بوتات ونشر تلقائي (LinkedIn & Social Automation):**
+   - تطوير سكريبتات وأتوماتيك فلو لنشر المحتوى وإدارة البيانات بذكاء اصطناعي عبر أوبن روتر (OpenRouter) ووسائل التواصل.
+
+3. **النشر الإلكتروني:**
+   - نشر كتاب إلكتروني تقني على منصة مكتبة نور (Noor Book).
+
+4. **تطبيقات ومشاريع الواجهات:**
+   - تصميم واجهات مستخدم مودرن لمتجر إلكتروني وتطبيقات ويب خفيفة وسريعة.
+
+---
+
+## 🌐 تواجد أونلاين | Connect With Me
+
+- **LinkedIn:** [Youssef Amr](https://www.linkedin.com/in/youssef-amr-68b346429/) 💼
+- **GitHub:** [yossefamr](https://github.com/yossefamr) 🐙
+- **Dev.to:** [YoussefAmr](https://dev.to/yossefamr) 📝
+- **مستقل:** [Youssef Amr](https://mostaql.com) 💼
+
+---
+
+<p center>
+<i>"Code, Automate, & Keep Evolving ⚡️"</i>
 </p>

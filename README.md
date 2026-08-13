@@ -1,64 +1,62 @@
-# ⚡️ Youssef Amr (يوسف عمرو)
+# ⚡️ Youssef Amr
 ### Frontend Developer & Workflow Automation Specialist
 
 ---
 
-## 👨‍💻 نبذة عني | About Me
+## 👨‍💻 About Me
 
-أهلاً بك! أنا **يوسف عمرو**، مبرمج ومطور واجهات (Frontend Developer) ومختص في أتمتة بيئات العمل (Workflow Automation). 
+Hello! I'm **Youssef Amr**, a passionate Frontend Developer and Workflow Automation Specialist based in Cairo, Egypt 🇪🇬.
 
-أمتلك شغفاً كبيراً بتحويل الأفكار والعمليات اليدوية المعقدة إلى أنظمة ذكية وسريعة توفر الوقت والجهد، مع الاهتمام بتقديم تجربة مستخدم (UX) سلسة وممتازة.
+I love transforming complex manual processes into smart, automated systems that save time and effort, all while creating clean, high-performance user interfaces with smooth UX.
 
-- 📍 **الإقامة:** القاهرة، مصر 🇪🇬
-- 🎓 **الصفة:** طالب ومطور شغوف بالتكنولوجيا والبرمجة 💻
-- 🥊 **الرياضة والاهتمامات:** أمارس رياضة الكونغ فو والساندا (Sanda) 🥋
-- ⚽️ **النادي المفضل:** مشجع لنادي الزمالك العريق 🏹
-- 🐧 **نظام التشغيل:** أعمل بشكل أساسي على **Linux Mint** 
+- 🎓 **Role:** Student & Tech Enthusiast 💻
+- 🐧 **Primary OS:** Linux Mint
+- 🎯 **Focus:** Frontend Engineering, Workflow Automation & Web Applications
 
 ---
 
-## 🛠️ المهارات والتقنيات | Skills & Expertise
+## 🛠️ Tech Stack & Skills
 
-### 💻 التطوير والواجهات (Frontend & Core)
-- **اللغات:** HTML5, CSS3, JavaScript (ES6+), Python, Node.js
-- **بناء الواجهات:** تصميم وتطوير واجهات تفاعلية ومستجيبة (Responsive Design)
+### 💻 Frontend & Core Technologies
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), Python, Node.js
+- **Web Development:** Responsive Design, UI/UX Implementation, Modern Web Layouts
 
-### 🤖 الأتمتة والـ Backend (Automation & Scripting)
-- **بيئات الأتمتة:** Activepieces, Webhooks, Notion API Integrations
-- **البوتات والسكريبتات:** كتابة سكريبتات بلغة Python و Node.js لتسهيل وتحسين بيئات العمل
-- **الأنظمة برمجية:** التعامل مع REST APIs و OSINT Fundamentals
+### 🤖 Automation & Scripting
+- **Automation Tools:** Activepieces, Webhooks, Notion API
+- **Scripting:** Python & Node.js scripts for workflow enhancement
+- **Core Concepts:** REST APIs & OSINT Fundamentals
 
-### 🎬 أدوات أخرى (Tools & Media)
-- **إدارة الأكواد:** Git & GitHub
-- **المونتاج والتصميم:** CapCut, Filmora, InShot, UI/UX Design Concepts
-
----
-
-## 🚀 أبرز المشاريع والإنجازات | Highlights & Projects
-
-1. **نظام أتمتة تتبع العملاء (Activepieces & Notion Workflow):**
-   - تصميم وتنفيذ فلو أتمتة كامل يربط بين الـ Webhooks وقواعد بيانات Notion لإدارة وتتبع العملاء تلقائياً مع نظام تنبيهات محدد.
-
-2. **بوتات ونشر تلقائي (LinkedIn & Social Automation):**
-   - تطوير سكريبتات وأتوماتيك فلو لنشر المحتوى وإدارة البيانات بذكاء اصطناعي عبر أوبن روتر (OpenRouter) ووسائل التواصل.
-
-3. **النشر الإلكتروني:**
-   - نشر كتاب إلكتروني تقني على منصة مكتبة نور (Noor Book).
-
-4. **تطبيقات ومشاريع الواجهات:**
-   - تصميم واجهات مستخدم مودرن لمتجر إلكتروني وتطبيقات ويب خفيفة وسريعة.
+### 🎬 Tools & Media
+- **Version Control:** Git & GitHub
+- **Video & Editing:** CapCut, Filmora, InShot
 
 ---
 
-## 🌐 تواجد أونلاين | Connect With Me
+## 🚀 Key Projects & Achievements
+
+1. **Lead-Tracking Automation System (Activepieces & Notion):**
+   - Designed and built an automated workflow linking Webhooks with Notion databases to log, track, and process user leads seamlessly.
+
+2. **Social Media & Content Automation:**
+   - Developed automation scripts integrated with OpenRouter APIs for automated publishing and content management.
+
+3. **Digital Publishing:**
+   - Authored and published a technical ebook on the Noor Book platform.
+
+4. **Web Applications & Front-end Interfaces:**
+   - Designed and created modern web application layouts focused on clean design and user experience.
+
+---
+
+## 🌐 Connect With Me
 
 - **LinkedIn:** [Youssef Amr](https://www.linkedin.com/in/youssef-amr-68b346429/) 💼
 - **GitHub:** [yossefamr](https://github.com/yossefamr) 🐙
-- **Dev.to:** [YoussefAmr](https://dev.to/yossefamr) 📝
-- **مستقل:** [Youssef Amr](https://mostaql.com) 💼
+- **DEV Community:** [YoussefAmr](https://dev.to/yossefamr) 📝
+- **Mostaql:** [Youssef Amr](https://mostaql.com) 💼
 
 ---
 
-<p center>
+<p align="center">
 <i>"Code, Automate, & Keep Evolving ⚡️"</i>
 </p>
